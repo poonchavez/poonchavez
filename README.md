@@ -1,6 +1,12 @@
 <p align="center">
   <samp>
-    Et cum fratribus nostris absentibus...
+    NEQVE INGENIVM SINE DISCIPLINA
+    <br>
+    AVT DISCIPLINA SINE INGENIO
+    <br>
+    PERFECTVM ARTIFICEM
+    <br>
+    POTEST EFFICERE
     <br><br>
     <a target="_blank" href="https://www.chavezpoon.com/">Personal Website</a> ⌘
     <a target="_blank" href="https://poonchavez.github.io/">Portfolio</a> ⌘
