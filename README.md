@@ -18,7 +18,8 @@
     <a href="https://poonchavez.github.io/" target="_blank" rel="noopener noreferrer">Portfolio</a> ⌘
     <a href="https://stackoverflow.com/users/33290480/chavez-poon/" target="_blank" rel="noopener noreferrer">Stackoverflow</a> ⌘
     <a href="https://www.linkedin.com/in/poonlonghei/" target="_blank" rel="noopener noreferrer">LinkedIn</a> ⌘
-    <a href="mailto:poonlhchavez@gmail.com" target="_blank" rel="noopener noreferrer">E-Mail</a>
+    <a href="mailto:poonlhchavez@gmail.com" target="_blank" rel="noopener noreferrer">E-Mail</a> ⌘
+    <a href="https://discord.gg/rJ4EQq2nJ">Discord</a>
   </samp>
 </p>
 
