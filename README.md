@@ -43,6 +43,12 @@
 <br>
 
 <p align="center">
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/cyrillusmariae) 
+</p>
+
+<br>
+
+<p align="center">
   <img alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=poonchavez&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <br>
   <img alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=poonchavez&theme=dark&hide_border=false" />
