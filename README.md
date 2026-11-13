@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/poonchavez/poonchavez/main/assets/regina-sinarum.jpg" width="200" />
+</div>
+
+<br>
+
 <p align="center">
   <samp>
     NEQVE INGENIVM SINE DISCIPLINA
