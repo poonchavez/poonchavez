@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/poonchavez/poonchavez/main/assets/regina-sinarum.jpg" width="200" />
-</div>
-
-<br>
-
 <p align="center">
   <samp>
     NEQVE INGENIVM SINE DISCIPLINA
@@ -24,8 +18,6 @@
 
 <hr>
 
-<br>
-
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
@@ -40,6 +32,24 @@
   <img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://paypal.me/cyrillusmariae"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=poonchavez&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br>
+  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=poonchavez&theme=dark&hide_border=false" />
+  <br>
+  <img alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=poonchavez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
 </p>
 
 <br>
