@@ -49,13 +49,3 @@
   <br>
   <img alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=poonchavez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=poonchavez&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=poonchavez&theme=dark&hide_border=false" />
-  <img alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=poonchavez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
